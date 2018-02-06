@@ -11,3 +11,16 @@ Full-stack | Node.js | Express | Bootstrap | jQuery | MongoDB | RESTful | Git
 • The website is responsive and mobile-friendly. Campground locations are shared using Google Maps API.
 
 • Used MongoDB as database. Maintained data in cloud database mLab.
+
+![](demopic1.jpg)
+
+![](demopic2.jpg)
+
+![](demopic3.jpg)
+
+![](demopic4.jpg)
+
+![](demopic5.jpg)
+
+![](demopic6.jpg)
+
